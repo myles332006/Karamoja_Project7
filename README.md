@@ -1,4 +1,4 @@
-# Karamoja_Project
+# Karamoja Project Group 7
 
 ## Project Overview
 This project was developed to support the NGOs working in Karamoja, Uganda, the country's most food-insecure region. The tools provides insights into sorghum and maize yields during the crop season, using geographical estimates combined with population data.
